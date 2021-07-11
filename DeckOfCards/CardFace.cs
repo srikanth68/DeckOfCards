@@ -5,7 +5,7 @@ using System.Text;
 namespace DeckOfCards
 {
     /// <summary>
-    ///  Class type to define multiple face types that are available in a normal deck
+    ///  Class to define multiple face types that are available in a normal deck
     /// </summary>
     public class CardFace
     {

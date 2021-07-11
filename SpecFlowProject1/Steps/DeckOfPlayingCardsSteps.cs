@@ -50,7 +50,7 @@ namespace DeckOfCardsSpecFlow.Steps
                 case Suit.Clubs: return true;
                 case Suit.Diamonds: return true;
                 case Suit.Hearts: return true;
-                default: return false;
+                default: return false; // If the suit is not in above given suits, then suit is invalid
 
             }
         }

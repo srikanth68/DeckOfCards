@@ -5,11 +5,11 @@ VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeckOfCardsSpecFlow", "SpecFlowProject1\DeckOfCardsSpecFlow.csproj", "{33926A29-E4CB-4670-8827-9AFE944F94CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeckOfCards", "DeckOfCards\DeckOfCards.csproj", "{7A941CA3-2C64-4417-92AC-0F77C3BFB51C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeckOfCards", "DeckOfCards\DeckOfCards.csproj", "{7A941CA3-2C64-4417-92AC-0F77C3BFB51C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeckOfCards.RunnerConsole", "DeckOfCards.RunnerConsole\DeckOfCards.RunnerConsole.csproj", "{4F7EEF6B-845A-4005-9624-78A9207BCDD5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeckOfCards.RunnerConsole", "DeckOfCards.RunnerConsole\DeckOfCards.RunnerConsole.csproj", "{4F7EEF6B-845A-4005-9624-78A9207BCDD5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecOfCardsTests", "DecOfCardsTests\DecOfCardsTests.csproj", "{EF43371A-6E27-4374-9862-FFBFA0DAF0E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DecOfCardsTests", "DecOfCardsTests\DecOfCardsTests.csproj", "{EF43371A-6E27-4374-9862-FFBFA0DAF0E9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

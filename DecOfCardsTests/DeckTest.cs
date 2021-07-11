@@ -56,7 +56,7 @@ namespace DecOfCardsTests
         public void IsDeckSortedCorrectly()
         {
             deck.SortFaceCards();
-
+            // checking the order of the cards as Two should be inserted before King
             Card firstCard = deck.Cards.Where(x => x.CardSuit == Suit.Diamonds && x.CardFace.FaceName.Equals("Two")).FirstOrDefault();
             Card secondCard = deck.Cards.Where(x => x.CardSuit == Suit.Diamonds && x.CardFace.FaceName.Equals("King")).FirstOrDefault();
             Assert.IsTrue(deck.Cards.IndexOf(firstCard) < deck.Cards.IndexOf(secondCard));

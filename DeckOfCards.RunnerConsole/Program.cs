@@ -9,6 +9,7 @@ namespace DeckOfCards.RunnerConsole
             Console.WriteLine("Creating a new deck");
             // Instantiating and creating a new deck.
             Deck deck = Deck.CreateDeckofCards();
+            // Printing to see the deck of cards
             foreach (var card in deck.Cards)
             {
 

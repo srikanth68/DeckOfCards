@@ -7,7 +7,7 @@ using System.Text;
 namespace DeckOfCards
 {
     /// <summary>
-    ///  Class defining a Deck of cards
+    ///  Class defining a Deck of cards, creatig a deck and sorting a deck
     /// </summary>
     public class Deck
     {

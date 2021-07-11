@@ -25,6 +25,6 @@ namespace DeckOfCards
 
     }
 
-    // Enum to distinguish which Suit the given card is
+    // Enum to distinguish the Suit of the card
     public enum Suit { Spades = 1, Clubs = 2, Diamonds = 3, Hearts = 4 }
 }
