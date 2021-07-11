@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeckOfCardsSpecFlow", "SpecFlowProject1\DeckOfCardsSpecFlow.csproj", "{33926A29-E4CB-4670-8827-9AFE944F94CE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeckOfCardsSpecFlow", "DeckOfCardsSpecFlow\DeckOfCardsSpecFlow.csproj", "{33926A29-E4CB-4670-8827-9AFE944F94CE}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeckOfCards", "DeckOfCards\DeckOfCards.csproj", "{7A941CA3-2C64-4417-92AC-0F77C3BFB51C}"
 EndProject

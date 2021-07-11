@@ -4,7 +4,7 @@ using FluentAssertions;
 using System.Linq;
 using DeckOfCards;
 using System.Collections.Generic;
-using static DeckOfCards.Card;
+
 
 namespace DeckOfCardsSpecFlow.Steps
 {
