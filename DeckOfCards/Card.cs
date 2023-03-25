@@ -14,7 +14,7 @@ namespace DeckOfCards
         public Suit CardSuit { get; }
         // Each card needs a face value, either a number(2-10) or a face like Ace, Jack, Queen, King
         public CardFace CardFace { get; }
-
+// good comments
         // Constructor to instantiate each card
         public Card(Suit _suit, CardFace _face)
         {
